@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "cowsay": "cowsay"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}

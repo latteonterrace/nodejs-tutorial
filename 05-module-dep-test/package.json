@@ -1,0 +1,14 @@
+{
+  "name": "05-module-dep-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mylib": "file:../04-module-dep"
+  }
+}

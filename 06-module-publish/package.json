@@ -1,0 +1,17 @@
+{
+  "name": "jirepos-time-util",
+  "version": "1.0.2",
+  "description": "For testing to publish to the registry",
+  "main": "dist/index.cjs",
+  "bin": {
+    "jirepostimeutil": "bin/jirepostimeutil.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jirepos@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
